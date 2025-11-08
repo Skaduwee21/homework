@@ -58,7 +58,7 @@ body {
 .hero {
     padding: 120px 0;
     line-height: 1.5;
-    color: var(--accent-text);
+    color: var(--white-text);
     position: relative;
 }
 .hero__inner {
